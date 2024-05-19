@@ -4,5 +4,4 @@ dmenu is an efficient dynamic menu for X.
 
 Patches applied
 ---------------
-- case-insensitive (https://tools.suckless.org/dmenu/patches/case-insensitive/)
 - xresources (https://tools.suckless.org/dmenu/patches/xresources/)
